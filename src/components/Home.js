@@ -48,8 +48,8 @@ const Home = () => {
                     <div className='col'>
                         <div className='pages'>
                             <h2 onClick={() => navigate('/')}>Home</h2>
-                            <h2 onClick={() => navigate('/services')}>Services</h2>
-                            <h2 onClick={() => navigate('/services')}>Projects</h2>
+                            <h2 onClick={() => navigate('/sevices')}>Services</h2>
+                            <h2 onClick={() => navigate('/projects')}>Projects</h2>
                             <h2 onClick={() => navigate('/test')}>Testimonials</h2>
                             <h2 onClick={() => navigate('/portfolio')}>Portfolio</h2>
                         </div>
